@@ -1,3 +1,6 @@
+![Banner](https://github.com/Tanveer-react/Tanveer-react/blob/main/banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Tanveer Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
